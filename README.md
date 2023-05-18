@@ -1,4 +1,4 @@
-# freeCAD-part-workbench-tutorial
+# FreeCAD-part-workbench-tutorial
 Tutorial focusing on FreeCAD's Part workbench.
 
 Check out the releases tab for the guide and included files!
